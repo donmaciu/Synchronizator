@@ -1,0 +1,2 @@
+2017-07-26 18:14:54: Nie można odnaleźć pliku 'c:\users\donmaciu\documents\visual studio 2017\Projects\ChomikSynchro\ChomikSynchro\bin\Debug\paths.set'.
+2017-07-26 18:27:39: analizowanie ">>([^]*)<<" - Nieskończony zestaw [].

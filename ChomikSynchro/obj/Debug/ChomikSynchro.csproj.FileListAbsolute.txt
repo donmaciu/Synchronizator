@@ -1,0 +1,11 @@
+c:\users\donmaciu\documents\visual studio 2017\Projects\ChomikSynchro\ChomikSynchro\bin\Debug\ChomikSynchro.exe.config
+c:\users\donmaciu\documents\visual studio 2017\Projects\ChomikSynchro\ChomikSynchro\bin\Debug\ChomikSynchro.exe
+c:\users\donmaciu\documents\visual studio 2017\Projects\ChomikSynchro\ChomikSynchro\bin\Debug\ChomikSynchro.pdb
+c:\users\donmaciu\documents\visual studio 2017\Projects\ChomikSynchro\ChomikSynchro\bin\Debug\ChomikLogger.dll
+c:\users\donmaciu\documents\visual studio 2017\Projects\ChomikSynchro\ChomikSynchro\bin\Debug\ChomikLogger.pdb
+c:\users\donmaciu\documents\visual studio 2017\Projects\ChomikSynchro\ChomikSynchro\obj\Debug\ChomikSynchro.csprojResolveAssemblyReference.cache
+c:\users\donmaciu\documents\visual studio 2017\Projects\ChomikSynchro\ChomikSynchro\obj\Debug\ChomikSynchro.Form1.resources
+c:\users\donmaciu\documents\visual studio 2017\Projects\ChomikSynchro\ChomikSynchro\obj\Debug\ChomikSynchro.Properties.Resources.resources
+c:\users\donmaciu\documents\visual studio 2017\Projects\ChomikSynchro\ChomikSynchro\obj\Debug\ChomikSynchro.csproj.GenerateResource.Cache
+c:\users\donmaciu\documents\visual studio 2017\Projects\ChomikSynchro\ChomikSynchro\obj\Debug\ChomikSynchro.exe
+c:\users\donmaciu\documents\visual studio 2017\Projects\ChomikSynchro\ChomikSynchro\obj\Debug\ChomikSynchro.pdb

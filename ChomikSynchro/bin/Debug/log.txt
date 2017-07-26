@@ -1,0 +1,8 @@
+2017-07-26 18:14:54: Nie można odnaleźć pliku 'c:\users\donmaciu\documents\visual studio 2017\Projects\ChomikSynchro\ChomikSynchro\bin\Debug\paths.set'.
+2017-07-26 18:27:39: analizowanie ">>([^]*)<<" - Nieskończony zestaw [].
+2017-07-26 19:25:50: Odmowa dostępu do ścieżki.
+2017-07-26 19:28:20: Odmowa dostępu do ścieżki.
+2017-07-26 19:52:58: Nie znaleziono pliku version.txt w folderze \\tanatos2\Pliki
+2017-07-26 20:06:56: Rozpoczynanie sesji
+2017-07-26 20:06:58: Nie znaleziono pliku version.txt w folderze \\tanatos2\Pliki
+2017-07-26 20:06:58: Koniec sesji
