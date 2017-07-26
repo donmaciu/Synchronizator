@@ -1,0 +1,2 @@
+# Synchronizator
+Prosty synchronizator
